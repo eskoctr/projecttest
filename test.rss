@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>havsuzamusiclive1988</title>
+
+				<link>https://gist.github.com/muhammed-cetin/d606679baa92039ae5f42ecfbcf6add4</link>
+
+			<atom:link href="https://feeds.acast.com/public/shows/624736bc34cde30013ef6fec" rel="self" type="application/rss+xml"/>
+				<language>tr</language>
+
+				<copyright/>
+
+				<itunes:keywords>havsuzamusiclive1988</itunes:keywords>
+
+				<itunes:author/>
+
+				<itunes:subtitle/>
+
+				<itunes:summary><![CDATA[havsuzamusiclive1988<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+				<description><![CDATA[havsuzamusiclive1988<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name/>
+					<itunes:email>info+624736bc34cde30013ef6fec@mg.pippa.io</itunes:email>
+</itunes:owner>
+
+				<acast:showId>624736bc34cde30013ef6fec</acast:showId>
+
+				<acast:showUrl>havsuzamusiclive1988</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[1xwMVdE8+zsdtwyxIM+nsw==]]></acast:signature>
+				<acast:settings><![CDATA[GpvOhCwAZEOnfh5I1xBT/Op59Qh+0P0Zf/1ME6fU9FDoWF01DQRgpAdFlTKHpNpZKJ3ELskb9lnY2PkbbjweeXNa7pSbIv3FXuFvPgugOY4LXUvpDHfj4SRDeDzC6OhdSqXM/XyHoopTDwDREmxHHFEzlHN3XWUshbNcQfhCNSDVwyWdI2ynG0wdkB2pjGj3o/BZO5P3aQV+gGc/STlIErfw1NWWgEdzzHMWWlowfBhKwCpEQFUStO7cdzMDpZ0UcT+SSa4Qi8ufJ6ITubkDm0SvBIGTqvxOVdROKgbMj2Lkppo7C/cZvu2lvbM65aVz/HIqnE9d0yz4oFoT+ORIohDRzF7AKDUz6WiXvXvT6wJeaajGB1rg2m79liLsFuEtJMDHyfc+9vFZ64lFY2LaiTcaNHZtF9xSlXOZU3UbQ4DLgbWXQnSXDgKAfJKQ4Ynwu/kBbpeUl8cgLXxI3hNNysjxDmnyETDzmuBmSahD8Z8=]]></acast:settings>
+
+				<item>
+						<title>fdgb5bv34543</title>
+
+						<itunes:title>fdgb5bv34543</itunes:title>
+
+						<pubDate>Fri, 01 Apr 2022 17:33:41 GMT</pubDate>
+
+						<itunes:duration>0:10</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/624736bc34cde30013ef6fec/e/62473776fff11c0014c5ff3c/media.mp3" length="280852" type="audio/mpeg"/>
+					<guid isPermaLink="false">62473776fff11c0014c5ff3c</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://takipcim.com.tr/twitter-trend-topic-satin-al</link>
+
+						<acast:episodeId>62473776fff11c0014c5ff3c</acast:episodeId>
+
+						<acast:episodeUrl>fdgb5bv34543</acast:episodeUrl>
+
+						<acast:settings><![CDATA[GpvOhCwAZEOnfh5I1xBT/K3Ys3jz19hGacAFF8gp6p6v2r+ZU93HIFxgkkzz+eMFLrE5CS794HcGnlQbEim+mf7vCtbATa/RW0zgw3QlU8PRYUt+e0JJMmjVReJTDokEufGJzThX78hTwL9QL5guk0iDq7hmjEzSpsc9yz9s8YgV9feQolNKdB3estOHq3WPK0DHkhfFG/gxTewhFLMylS1jUlkWom8PeJn2SJOADxACAJ8XVRFTepDnXTyAMCQG5YpdnMjomUXWuYKFFBLjLFbPI/z91cy+tnGDjq+Bwk6Sa/5yiMyj4zNG3LxWnsCH/+E6ucJdsQq88bAldfR7muXp1qfHF7SabK2TFz6IW28rLs7UUbrg2MEJlVhwNdEefvngzSuU8wm7pssrMbXqj4kYAQ8Wg2hkk226j4aOZ5IQoMq+XEGqW0buN0jbZVjmyXI0iRbAlqs/5CUCYABjAn6b5W8GFHjSnF6RLp1j9VhZNJ98y6zahb4PVB2y1TMsEtXOknuBWUPJl5VXlUC/GgqJ25taFURPg57eJzbbW+B6YUSuCsDT1WucqgKceYX3]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>gfhn4654b6</title>
+
+						<itunes:title>gfhn4654b6</itunes:title>
+
+						<pubDate>Fri, 01 Apr 2022 17:33:24 GMT</pubDate>
+
+						<itunes:duration>0:10</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/624736bc34cde30013ef6fec/e/62473765c153830012d66b97/media.mp3" length="280852" type="audio/mpeg"/>
+					<guid isPermaLink="false">62473765c153830012d66b97</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://takipcim.com.tr/google-haritalara-yer-ekleme</link>
+
+						<acast:episodeId>62473765c153830012d66b97</acast:episodeId>
+
+						<acast:episodeUrl>gfhn4654b6</acast:episodeUrl>
+
+						<acast:settings><![CDATA[GpvOhCwAZEOnfh5I1xBT/K3Ys3jz19hGacAFF8gp6p6v2r+ZU93HIFxgkkzz+eMFLrE5CS794HcGnlQbEim+mf7vCtbATa/RW0zgw3QlU8PRYUt+e0JJMmjVReJTDokEufGJzThX78hTwL9QL5guk0iDq7hmjEzSpsc9yz9s8YgV9feQolNKdB3estOHq3WPK0DHkhfFG/gxTewhFLMylS1jUlkWom8PeJn2SJOADxACAJ8XVRFTepDnXTyAMCQG5YpdnMjomUXWuYKFFBLjLFbPI/z91cy+tnGDjq+Bwk6Sa/5yiMyj4zNG3LxWnsCH/+E6ucJdsQq88bAldfR7muXp1qfHF7SabK2TFz6IW28rLs7UUbrg2MEJlVhwNdEefvngzSuU8wm7pssrMbXqj4kYAQ8Wg2hkk226j4aOZ5IQoMq+XEGqW0buN0jbZVjmyXI0iRbAlqs/5CUCYABjAn6b5W8GFHjSnF6RLp1j9VhhEzt95b4W1DsPK1vZAW/Ieh0OFhivyD5tSdQZAcfBFE6YkZacbOmWyjVq/ns/vDZcpW148oonFnnSqRpa53e7]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>fdgn4565454</title>
+
+						<itunes:title>fdgn4565454</itunes:title>
+
+						<pubDate>Fri, 01 Apr 2022 17:33:10 GMT</pubDate>
+
+						<itunes:duration>0:10</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/624736bc34cde30013ef6fec/e/62473756b1473a0014afb730/media.mp3" length="280852" type="audio/mpeg"/>
+					<guid isPermaLink="false">62473756b1473a0014afb730</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://www.sosyalmedyayonetim.net/sosyal-medya-hesap-kurulumu.html</link>
+
+						<acast:episodeId>62473756b1473a0014afb730</acast:episodeId>
+
+						<acast:episodeUrl>fdgn4565454</acast:episodeUrl>
+
+						<acast:settings><![CDATA[GpvOhCwAZEOnfh5I1xBT/K3Ys3jz19hGacAFF8gp6p6v2r+ZU93HIFxgkkzz+eMFLrE5CS794HcGnlQbEim+mf7vCtbATa/RW0zgw3QlU8PRYUt+e0JJMmjVReJTDokEufGJzThX78hTwL9QL5guk0iDq7hmjEzSpsc9yz9s8YgV9feQolNKdB3estOHq3WPK0DHkhfFG/gxTewhFLMylS1jUlkWom8PeJn2SJOADxACAJ8XVRFTepDnXTyAMCQG5YpdnMjomUXWuYKFFBLjLFbPI/z91cy+tnGDjq+Bwk6Sa/5yiMyj4zNG3LxWnsCH/+E6ucJdsQq88bAldfR7muXp1qfHF7SabK2TFz6IW28rLs7UUbrg2MEJlVhwNdEefvngzSuU8wm7pssrMbXqj4kYAQ8Wg2hkk226j4aOZ5IQoMq+XEGqW0buN0jbZVjmyXI0iRbAlqs/5CUCYABjAn6b5W8GFHjSnF6RLp1j9VhPMi/HnUszH9qXE9xyb7bRADFI4ktlohG5/Pctbgh26Ff1JP0nmvXHtYEGREUj8dUSKws+PksTUAoXzNzG5xoM]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>sdfnd645454</title>
+
+						<itunes:title>sdfnd645454</itunes:title>
+
+						<pubDate>Fri, 01 Apr 2022 17:32:55 GMT</pubDate>
+
+						<itunes:duration>0:10</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/624736bc34cde30013ef6fec/e/62473748b157f40014fd38ce/media.mp3" length="280852" type="audio/mpeg"/>
+					<guid isPermaLink="false">62473748b157f40014fd38ce</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://www.sosyalmedyayonetim.net/sosyal-medya-reklam-yonetimi.html</link>
+
+						<acast:episodeId>62473748b157f40014fd38ce</acast:episodeId>
+
+						<acast:episodeUrl>sdfnd645454</acast:episodeUrl>
+
+						<acast:settings><![CDATA[GpvOhCwAZEOnfh5I1xBT/K3Ys3jz19hGacAFF8gp6p6v2r+ZU93HIFxgkkzz+eMFLrE5CS794HcGnlQbEim+mf7vCtbATa/RW0zgw3QlU8PRYUt+e0JJMmjVReJTDokEufGJzThX78hTwL9QL5guk0iDq7hmjEzSpsc9yz9s8YgV9feQolNKdB3estOHq3WPK0DHkhfFG/gxTewhFLMylS1jUlkWom8PeJn2SJOADxACAJ8XVRFTepDnXTyAMCQG5YpdnMjomUXWuYKFFBLjLFbPI/z91cy+tnGDjq+Bwk6Sa/5yiMyj4zNG3LxWnsCH/+E6ucJdsQq88bAldfR7muXp1qfHF7SabK2TFz6IW28rLs7UUbrg2MEJlVhwNdEefvngzSuU8wm7pssrMbXqj4kYAQ8Wg2hkk226j4aOZ5IQoMq+XEGqW0buN0jbZVjmyXI0iRbAlqs/5CUCYABjAn6b5W8GFHjSnF6RLp1j9ViSq++JPU30TxLp4W6HTUdm58wbOaHWfgTnEfrv0n/EP5LWSrp/VTlnaRBtZU6h07UNBGbouGS43aFUtH0JTHcW]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>sdfn565654</title>
+
+						<itunes:title>sdfn565654</itunes:title>
+
+						<pubDate>Fri, 01 Apr 2022 17:32:40 GMT</pubDate>
+
+						<itunes:duration>0:10</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/624736bc34cde30013ef6fec/e/624737386baf5b00124ce4fc/media.mp3" length="280852" type="audio/mpeg"/>
+					<guid isPermaLink="false">624737386baf5b00124ce4fc</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://www.sosyalmedyayonetim.net/sosyal-medya-yonetimi-paketleri.html</link>
+
+						<acast:episodeId>624737386baf5b00124ce4fc</acast:episodeId>
+
+						<acast:episodeUrl>sdfn565654</acast:episodeUrl>
+
+						<acast:settings><![CDATA[GpvOhCwAZEOnfh5I1xBT/K3Ys3jz19hGacAFF8gp6p6v2r+ZU93HIFxgkkzz+eMFLrE5CS794HcGnlQbEim+mf7vCtbATa/RW0zgw3QlU8PRYUt+e0JJMmjVReJTDokEufGJzThX78hTwL9QL5guk0iDq7hmjEzSpsc9yz9s8YgV9feQolNKdB3estOHq3WPK0DHkhfFG/gxTewhFLMylS1jUlkWom8PeJn2SJOADxACAJ8XVRFTepDnXTyAMCQG5YpdnMjomUXWuYKFFBLjLFbPI/z91cy+tnGDjq+Bwk6Sa/5yiMyj4zNG3LxWnsCH/+E6ucJdsQq88bAldfR7muXp1qfHF7SabK2TFz6IW28rLs7UUbrg2MEJlVhwNdEefvngzSuU8wm7pssrMbXqj4kYAQ8Wg2hkk226j4aOZ5IQoMq+XEGqW0buN0jbZVjmyXI0iRbAlqs/5CUCYABjAn6b5W8GFHjSnF6RLp1j9VgH+HM8otJsAjIamRqhovpNgpEriGz79KExD38rUc0SFolmNhk+fgb6Rt78NN6rcU6wXdiNtPgisdEmkZN0nI0C]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>fdgv345</title>
+
+						<itunes:title>fdgv345</itunes:title>
+
+						<pubDate>Fri, 01 Apr 2022 17:32:23 GMT</pubDate>
+
+						<itunes:duration>0:10</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/624736bc34cde30013ef6fec/e/62473728b157f40014fd3840/media.mp3" length="280852" type="audio/mpeg"/>
+					<guid isPermaLink="false">62473728b157f40014fd3840</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://www.sosyalmedyayonetim.net/referanslar.html</link>
+
+						<acast:episodeId>62473728b157f40014fd3840</acast:episodeId>
+
+						<acast:episodeUrl>fdgv345</acast:episodeUrl>
+
+						<acast:settings><![CDATA[GpvOhCwAZEOnfh5I1xBT/K3Ys3jz19hGacAFF8gp6p6v2r+ZU93HIFxgkkzz+eMFLrE5CS794HcGnlQbEim+mf7vCtbATa/RW0zgw3QlU8PRYUt+e0JJMmjVReJTDokEufGJzThX78hTwL9QL5guk0iDq7hmjEzSpsc9yz9s8YgV9feQolNKdB3estOHq3WPK0DHkhfFG/gxTewhFLMylS1jUlkWom8PeJn2SJOADxACAJ8XVRFTepDnXTyAMCQG5YpdnMjomUXWuYKFFBLjLFbPI/z91cy+tnGDjq+Bwk6Sa/5yiMyj4zNG3LxWnsCH/+E6ucJdsQq88bAldfR7muXp1qfHF7SabK2TFz6IW28rLs7UUbrg2MEJlVhwNdEefvngzSuU8wm7pssrMbXqj4kYAQ8Wg2hkk226j4aOZ5IQoMq+XEGqW0buN0jbZVjmyXI0iRbAlqs/5CUCYABjAn6b5W8GFHjSnF6RLp1j9Vg8fAiYVV7KefN2YhGqZwW/aJbNU4tlRd2bzHLLKvrhVrsYwH/9ox8XeudqQSYhajF2EehGLrO/79BAJUuCqkp7]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>sadb345v45</title>
+
+						<itunes:title>sadb345v45</itunes:title>
+
+						<pubDate>Fri, 01 Apr 2022 17:31:58 GMT</pubDate>
+
+						<itunes:duration>0:10</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/624736bc34cde30013ef6fec/e/6247370f773ae80014970ece/media.mp3" length="280852" type="audio/mpeg"/>
+					<guid isPermaLink="false">6247370f773ae80014970ece</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://www.sosyalmedyayonetim.net/ekibimiz.html</link>
+
+						<acast:episodeId>6247370f773ae80014970ece</acast:episodeId>
+
+						<acast:episodeUrl>sadb345v45</acast:episodeUrl>
+
+						<acast:settings><![CDATA[GpvOhCwAZEOnfh5I1xBT/K3Ys3jz19hGacAFF8gp6p6v2r+ZU93HIFxgkkzz+eMFLrE5CS794HcGnlQbEim+mf7vCtbATa/RW0zgw3QlU8PRYUt+e0JJMmjVReJTDokEufGJzThX78hTwL9QL5guk0iDq7hmjEzSpsc9yz9s8YgV9feQolNKdB3estOHq3WPK0DHkhfFG/gxTewhFLMylS1jUlkWom8PeJn2SJOADxACAJ8XVRFTepDnXTyAMCQG5YpdnMjomUXWuYKFFBLjLFbPI/z91cy+tnGDjq+Bwk6Sa/5yiMyj4zNG3LxWnsCH/+E6ucJdsQq88bAldfR7muXp1qfHF7SabK2TFz6IW28rLs7UUbrg2MEJlVhwNdEefvngzSuU8wm7pssrMbXqj4kYAQ8Wg2hkk226j4aOZ5IQoMq+XEGqW0buN0jbZVjmyXI0iRbAlqs/5CUCYABjAn6b5W8GFHjSnF6RLp1j9VjSLb66CCUuZVwazL1zYzLETgrCxYctAuHzjL2zi6ZPHbJMrdEu+xo/lZugMo8C1ZoPGyXGYM76Nasypfba16KW]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>sdfc1x213x213</title>
+
+						<itunes:title>sdfc1x213x213</itunes:title>
+
+						<pubDate>Fri, 01 Apr 2022 17:31:37 GMT</pubDate>
+
+						<itunes:duration>0:10</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/624736bc34cde30013ef6fec/e/624736f930fb610012006f82/media.mp3" length="280852" type="audio/mpeg"/>
+					<guid isPermaLink="false">624736f930fb610012006f82</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://www.sosyalmedyayonetim.net/hakkimizda.html</link>
+
+						<acast:episodeId>624736f930fb610012006f82</acast:episodeId>
+
+						<acast:episodeUrl>sdfc1x213x213</acast:episodeUrl>
+
+						<acast:settings><![CDATA[GpvOhCwAZEOnfh5I1xBT/K3Ys3jz19hGacAFF8gp6p6v2r+ZU93HIFxgkkzz+eMFLrE5CS794HcGnlQbEim+mf7vCtbATa/RW0zgw3QlU8PRYUt+e0JJMmjVReJTDokEufGJzThX78hTwL9QL5guk0iDq7hmjEzSpsc9yz9s8YgV9feQolNKdB3estOHq3WPK0DHkhfFG/gxTewhFLMylS1jUlkWom8PeJn2SJOADxACAJ8XVRFTepDnXTyAMCQG5YpdnMjomUXWuYKFFBLjLFbPI/z91cy+tnGDjq+Bwk6Sa/5yiMyj4zNG3LxWnsCH/+E6ucJdsQq88bAldfR7muXp1qfHF7SabK2TFz6IW28rLs7UUbrg2MEJlVhwNdEefvngzSuU8wm7pssrMbXqj4kYAQ8Wg2hkk226j4aOZ5IQoMq+XEGqW0buN0jbZVjmyXI0iRbAlqs/5CUCYABjAn6b5W8GFHjSnF6RLp1j9VgxrOmXaV8nlbEMlyM0IMLrrzHtKdp01+gLPcJZJksN2XhXrEAHkpY0EYIESd834lcfjvtjZTKlJjjGB1C3UTDQ]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>dsfv2342c3</title>
+
+						<itunes:title>dsfv2342c3</itunes:title>
+
+						<pubDate>Fri, 01 Apr 2022 17:31:20 GMT</pubDate>
+
+						<itunes:duration>0:10</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/624736bc34cde30013ef6fec/e/624736e9b157f40014fd3782/media.mp3" length="280852" type="audio/mpeg"/>
+					<guid isPermaLink="false">624736e9b157f40014fd3782</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://www.sosyalmedyayonetim.net/iletisim.html</link>
+
+						<acast:episodeId>624736e9b157f40014fd3782</acast:episodeId>
+
+						<acast:episodeUrl>dsfv2342c3</acast:episodeUrl>
+
+						<acast:settings><![CDATA[GpvOhCwAZEOnfh5I1xBT/K3Ys3jz19hGacAFF8gp6p6v2r+ZU93HIFxgkkzz+eMFLrE5CS794HcGnlQbEim+mf7vCtbATa/RW0zgw3QlU8PRYUt+e0JJMmjVReJTDokEufGJzThX78hTwL9QL5guk0iDq7hmjEzSpsc9yz9s8YgV9feQolNKdB3estOHq3WPK0DHkhfFG/gxTewhFLMylS1jUlkWom8PeJn2SJOADxACAJ8XVRFTepDnXTyAMCQG5YpdnMjomUXWuYKFFBLjLFbPI/z91cy+tnGDjq+Bwk6Sa/5yiMyj4zNG3LxWnsCH/+E6ucJdsQq88bAldfR7muXp1qfHF7SabK2TFz6IW28rLs7UUbrg2MEJlVhwNdEefvngzSuU8wm7pssrMbXqj4kYAQ8Wg2hkk226j4aOZ5IQoMq+XEGqW0buN0jbZVjmyXI0iRbAlqs/5CUCYABjAn6b5W8GFHjSnF6RLp1j9VhDlUn/Gb/KviEPmLsESWaCaRISWot5qpvs82HP9ts+3RWE9rluMt1N48on/bj/0ufWEOiHDdlPskCLCZ1hd+ID]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+			<itunes:category text="Arts"/>
+</channel>
+
+</rss>
